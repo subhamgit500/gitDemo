@@ -16,7 +16,7 @@ def test_e2e(browserInstance,test_list_item):
 
     driver = browserInstance
 
-    loginPage = LoginPage(driver)
+    loginPage = LoginPage(driver)  #Passing the driver object
     print(loginPage.getTitle())
 
     shop_page = loginPage.login(test_list_item["userEmail"],test_list_item["password"])
