@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+    "userEmail" : "rahulshettyacademy",
+    "password" : "learning",
+      "ItemName" : "iphone X",
+      "CountryName": "India"
+  },
+     {
+    "userEmail" : "rahulshettyacademy",
+    "password" : "learning",
+      "ItemName" : "Blackberry",
+      "CountryName": "India"
+  }
+  ]
+}
