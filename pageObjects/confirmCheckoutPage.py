@@ -38,3 +38,6 @@ class ConfirmCheckout(browserCommonFunction):
         assert "Success" in successMsg
         print("Purchase completed successfully")
         print("Execution completed successfully")
+
+
+#Comments added during in develop branch

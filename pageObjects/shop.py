@@ -37,3 +37,4 @@ class ShopPage(browserCommonFunction):
         purchase = ConfirmCheckout(self.driver)
         return purchase
 
+#Comments added during in develop branch

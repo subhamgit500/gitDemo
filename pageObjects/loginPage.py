@@ -23,3 +23,4 @@ class LoginPage(browserCommonFunction):
         time.sleep(3)
         shop_page = ShopPage(self.driver)
         return shop_page
+#Comments added during in develop branch
